@@ -21,16 +21,41 @@ Grüße dein Michi der dich über alles liebt.
 const BRIEF2 =
     `Warum ich stolz auf dich bin
 -----
+Hallo meine Liebe,
 
-TODO!!!!!!!!
+ich möchte dir mit diesem Brief noch einmal sagen, dass ich unheimlich stolz auf dich bin.
 
+Du hast dich auch echt verändert, im laufe unserer Beziehung und ich bin so stolz, so eine Liebe Frau an meiner Seite zu haben, auf die ich mich verlassen kann.
+
+Du warst von Anfang an etwas besonderes, eine Person die gelert hat, sich nichts gefallen zu lassen, was sie schädigt. Leider musstes du viel Schaden nehmen um dort anzukommen. Trotzdem bist du ein toller Mensch geblieben und nicht zu dem geworden was dich hat leiden lassen. Du hast mir damit den Mut gegeben, endlich mein Leben selbst in die Hand zu nehmen und mir zum Ziel zu machen, für dich da zu sein und eine Familie mit dir zu gründen.
+
+Ich möchte dir noch einmal sagen, ich bin stolz auf dich. Stolz, dass du nicht an mir auslässt, was andere dir getan haben. Stolz das du mich immer unterstützt hast, selbst wenn ich oder meine Familie dich schlecht behandelt hat. Stolz, dass du mir jetzt schon ein Kind geschenkt hast (Bobo) und noch vieles mehr. Und Stolz, dass du die Arbeitswelt für uns überstehst.
+
+Du solltest auch stolz auf dich sein! Du hast so viel geleistet in den Jahren mit mir.
+
+Ich liebe dich von ganzem Herzen.
+
+Dein Michi.
 `;
 
 const BRIEF3 =
     `Gemeinsame Erinnerung
 -----
 
-TODO!!!!!!!!
+Hallo mein Batzen, 
+
+heute möchte ich mal etwas in Erinnerungen schwägen.
+
+Salzburg
+Kroatien
+Besuch bei deinen Großeltern
+Italien
+Verschiedene Thermenbesuche
+Besuch bei deiner Mutter
+Die Tripps nach Karlsbad
+
+Und so viele kleine Ausflüge, wie ich sie nie im Leben zuvor hatte.
+
 
 `;
 
