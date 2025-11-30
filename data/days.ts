@@ -46,17 +46,55 @@ Hallo mein Batzen,
 
 heute möchte ich mal etwas in Erinnerungen schwägen.
 
-Salzburg
-Kroatien
-Besuch bei deinen Großeltern
-Italien
-Verschiedene Thermenbesuche
-Besuch bei deiner Mutter
+Salzburg - Dec 2023
+
+Unserere erste große Sachen. Ich weiß noch wie du mich zum ersten mal auf den Geisberg gebracht hast und das wir Abends essen waren. (und der Sex in der Nacht 😉)
+
+Besuch bei deiner Mutter - März 2024
+
+Bis auf die Übernachtung, wars echt schön. Lass auf jeden Fall wieder hin sobald möglich.
+
+Kroatien - Mai 2024
+
+Mein Persönliches Urlaubshighlight mit dir bis jetzt.
+Ich hab mich so frei gefühlt in der Ferienwohnung und es war einfach toll einen Ort mit dir zu entdecken
+
+Pocking - Apr 2024
+
+Deinen Opa zu treffen war echt schön. Und ich war auch froh das sie mich gleich akzeptiert haben 😅
+Die Parks dort in der Region waren so schön. Lass da auch mal in eine Therme!
+
+Italien - Juli / Aug 2024
+
+Einer der schönsten Italien Urlaube seit langen für mich. Mal wieder eine ganz andere Ecke von einem meiner Lieblingsorte auf der Welt zu entdecken und dann ach noch mit dir! Das war echt unvergesslich.
+
+Oktoberfest - Oktober 2024
+
+Am meisten errinere ich mich tatsächlich an die Übernachtung, hat eigentlich auch Spaß gemacht, aber nächsted mal bereiten wir uns weng vor aufs Zelten...
+Das Weißwurst-Frühstück im Zelt mit dir war richtig schön.
+
+Viele Trips nach Bayreuth / Nürnberg
+
+Von den vielen Trips nach Bayreuth fand ich den schönsten, alls wir fast genau 1 Jahr vor unserer Hochzeit einfach eine andere Hochzeit in der Eremitage miterleben durften
+durften. Die Glühwürmchen waren so schön 🥰
+
 Die Tripps nach Karlsbad
+
+Die Tripps nach Karlsbad und anderen Orten in Tschechien waren auch hilights für mich, da du mir gezeit hast, dass man nicht immer weit weg muss um etwas schönes neuen zu finden.
+
+Verschiedene Thermenbesuche
+
+Jedes mal Therme ist wieder schön. mit dir gemeinsam im Salzschwebebecken zu liegen oder im Wirlpool zu sitzen ist einfach toll.
+
+Die Hochzeit! - 07.06.2025
+
+Ein unglaublicher Moment in meine Erinnerungen. Zuvor war nochmal alles unsicher und wir standen auf der Kippe, aber wir habend geschafft und seit dem spüre ich eine Sicherheit wie noch nie!
 
 Und so viele kleine Ausflüge, wie ich sie nie im Leben zuvor hatte.
 
+Alles in allem waren es unglaubliche 2 Jahre mit dir. Und es werden noch viele kommen!
 
+Dein Michi!
 `;
 
 const BRIEF4 =
