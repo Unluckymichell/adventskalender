@@ -3,15 +3,16 @@ const BRIEF1 =
 -----
 Hallo mein Schatz, ich möchte dir heute mit diesem Brief erzählen, was ich mir bei diesem Weihnachtskallender gedacht habe.
 
-Ich habe mit schon länger vorgenommen wieder mehr mit dir zu unternehmen und dier vor allem mal wieder mehr freude im Leben zu bereiten.
-Leider bin ich nie auf die Idee gekommen, dass ich doch auch ohne viel Geld und Zeit dir eine Freude machen kann, 
-zum Beispiel indem ich meine Kenntnisse nutze und dir damit etwas einzigartiges Schenke.
+Ich habe mir schon länger vorgenommen wieder mehr mit dir zu unternehmen und dir wieder mehr kleine freuden im Leben zu bereiten.
+Leider bin ich nie auf die Idee gekommen, dass ich doch auch ohne viel Geld und Zeit, dir eine Freude machen kann, 
+zum Beispiel indem ich meine Kenntnisse im Digitalen nutze und dir damit etwas einzigartiges Schenke.
 
-Und ich denke nicht das dir schon mal jemand einen Digitalen und Realen Advenzkalender geschenkt hat!
+Und ich denke nicht das dir schon mal jemand einen Digitalen + Realen Advenzkalender geschenkt hat!
+
 Heute giebts nur diesen Brief und eine Umarmung (Notiz an mich in der Zukunft: NICHT VERGESSEN!!!!), aber du kannst dich auf Gutscheine, Mystery Packs, weiter Briefe 
 und Sogar ein par Digitale Inhallte die ich für dich produziert habe freuen.
 
-Und nur um das klarzustellen, ich habe mir zwar beim Programmieren von KI helfen lassen. Aber alle Geschenke und Briefe sind von mir handgemacht,
+Und nur um das klarzustellen, alle Geschenke und Briefe sind von mir handgemacht (keine KI),
 mit Rechtschreibfehler on top!
 
 Grüße dein Michi der dich über alles liebt.
