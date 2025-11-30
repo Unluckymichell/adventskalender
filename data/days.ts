@@ -138,7 +138,7 @@ export const daysData: daysList = {
     //🍁 Woche 1 (1.–7. Dezember)
 
     1: { day: "mo", type: "letter", content: BRIEF1, },
-    2: { day: "di", type: "mystery", message: "Was wird das sein?\nVieleicht eine Süße Kleinigkeit?\n\nÖffne Mystery-Pack 1" },
+    2: { day: "di", type: "mystery", message: "Was wird das sein?\nVieleicht eine Süße Kleinigkeit, oder sogar mehr?\n\nÖffne Mystery-Pack 1 🎁" },
     3: { day: "mi", type: "digital", subType: "video", url: "/media/day-03.mp4" },
     4: { day: "do", type: "mystery", message: "Was wird heute wohl drinn sein?\nWieder nur Schokolade oder mehr...\n\nÖffne Mystery-Pack 2" },
     5: { day: "fr", type: "coupon", content: "Gutschein für gemeinsammes Frühstück am Wochenende im Museums-Cafe" },

@@ -1,4 +1,5 @@
 import Letter from "@/components/Letter";
+import Mystery from "@/components/Mystery";
 import { daysData } from "@/data/days";
 
 export default async function DayPage(props: { params: Promise< { day: string } > }) {
@@ -26,13 +27,14 @@ export default async function DayPage(props: { params: Promise< { day: string } 
         })()}</h2>
 
       <div className="max-w-lg mx-auto">
-        <p className=" text-red-900 whitespace-pre-line">
+        <div className=" text-red-900 whitespace-pre-line">
           {(() => { 
             switch (data.type) {
                 case "letter": return <Letter content={data.content} />
+                case "mystery": return <Mystery message={data.message} />
             }
         })()}
-        </p>
+        </div>
       </div>
     </div>
   );
