@@ -98,7 +98,7 @@ Dein Michi!
 `;
 
 const BRIEF4 =
-    `10 Gründe wieso du die beste bist
+    `Was ich mir Wünsche
 -----
 
 TODO!!!!!!!!
@@ -135,6 +135,8 @@ type daysList = {
 
 
 export const daysData: daysList = {
+    //🍁 Woche 1 (1.–7. Dezember)
+
     1: { day: "mo", type: "letter", content: BRIEF1, },
     2: { day: "di", type: "mystery", message: "Was wird das sein?\nVieleicht eine Süße Kleinigkeit?\n\nÖffne Mystery-Pack 1" },
     3: { day: "mi", type: "digital", subType: "video", url: "/media/day-03.mp4" },
@@ -145,8 +147,8 @@ export const daysData: daysList = {
 
     //🍁 Woche 2 (8.–14. Dezember)
 
-    8: { day:  "mo", type: "letter", content: BRIEF2, },
-    9: { day:  "di", type: "mystery", message: "Heute wieder ein Mystery Pack!\nIch hoffe es gefällt dir.\n\nÖffne Mystery-Pack 4" },
+    8: { day: "mo", type: "letter", content: BRIEF2, },
+    9: { day: "di", type: "mystery", message: "Heute wieder ein Mystery Pack!\nIch hoffe es gefällt dir.\n\nÖffne Mystery-Pack 4" },
     10: { day: "mi", type: "digital", subType: "web", url: "/game/memory" },	//Digitales Mini-Game (Memory/Quiz)	
     11: { day: "do", type: "letter", content: BRIEF3, },
     12: { day: "fr", type: "coupon", content: "Gutschein für Wellnessabend / Massage für Samstag oder Sonntag" },
