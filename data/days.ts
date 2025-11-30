@@ -9,7 +9,7 @@ zum Beispiel indem ich meine Kenntnisse im Digitalen nutze und dir damit etwas e
 
 Und ich denke nicht das dir schon mal jemand einen Digitalen + Realen Advenzkalender geschenkt hat!
 
-Heute giebts nur diesen Brief und eine Umarmung (Notiz an mich in der Zukunft: NICHT VERGESSEN!!!!), aber du kannst dich auf Gutscheine, Mystery Packs, weiter Briefe 
+Heute giebts nur diesen Brief und ein bisschen Süßigkeiten (Notiz an mich in der Zukunft: NICHT VERGESSEN!!!!), aber du kannst dich auf Gutscheine, Mystery Packs, weiter Briefe 
 und Sogar ein par Digitale Inhallte die ich für dich produziert habe freuen.
 
 Und nur um das klarzustellen, alle Geschenke und Briefe sind von mir handgemacht (keine KI),
