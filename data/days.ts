@@ -139,11 +139,11 @@ export const daysData: daysList = {
 
     1: { day: "mo", type: "letter", content: BRIEF1, },
     2: { day: "di", type: "mystery", message: "Was wird das sein?\nVieleicht eine Süße Kleinigkeit, oder sogar mehr?\n\nÖffne Mystery-Pack 1 🎁" },
-    3: { day: "mi", type: "digital", subType: "video", url: "/day-03.mp4" },
+    3: { day: "mi", type: "coupon", content: "Wir machen ein gemeinsammes Video zu unseren anfängen" },
     4: { day: "do", type: "mystery", message: "Was wird heute wohl drinn sein?\nWieder nur Schokolade oder mehr...\n\nÖffne Mystery-Pack 2" },
-    5: { day: "fr", type: "coupon", content: "Gutschein für gemeinsammes Frühstück am Wochenende im Museums-Cafe" },
+    5: { day: "fr", type: "coupon", content: "Gemeinsammes Frühstück am Wochenende im Museums-Cafe oder ähnlich" },
     6: { day: "sa", type: "mystery", message: "Zum Nikolaus, etwas schönes\nVieleicht ein kleines Geschenk?\n\nÖffne Mystery-Pack 3" },
-    7: { day: "so", type: "coupon", content: "Gutschein für Weihnachtsmarkt Date, mit einer heißen Schokolade und Wunschessen" },
+    7: { day: "so", type: "coupon", content: "Weihnachtsmarkt Date, mit einer heißen Schokolade und Wunschessen" },
 
     //🍁 Woche 2 (8.–14. Dezember)
 
