@@ -1,4 +1,4 @@
-name: Build and Push Docker Image for Master Branch
+name: Build and Push Docker Image for Main Branch
 on:
   push:
     branches:
@@ -27,4 +27,3 @@ jobs:
       - name: Push Image as latest and version
         run: |
           docker push ghcr.io/unluckymichell/adventskalender:latest
-          docker push ghcr.io/unluckymichell/adventskalender:${{steps.package-version.outputs.current-version}}
