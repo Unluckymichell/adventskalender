@@ -1,4 +1,5 @@
 import Coupon from "@/components/Coupon";
+import Digital from "@/components/Digital";
 import Letter from "@/components/Letter";
 import Mystery from "@/components/Mystery";
 import { daysData } from "@/data/days";
@@ -34,6 +35,7 @@ export default async function DayPage(props: { params: Promise<{ day: string }> 
               case "letter": return <Letter content={data.content} />
               case "mystery": return <Mystery message={data.message} />
               case "coupon": return <Coupon content={data.content} />
+              case "digital": return <Digital subType={data.subType} url={data.url} />
             }
           })()}
         </div>

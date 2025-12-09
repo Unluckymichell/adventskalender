@@ -149,7 +149,7 @@ export const daysData: daysList = {
 
     8: { day: "mo", type: "letter", content: BRIEF2, },
     9: { day: "di", type: "mystery", message: "Heute wieder ein Mystery Pack!\nIch hoffe es gefällt dir.\n\nÖffne Mystery-Pack 4" },
-    10: { day: "mi", type: "digital", subType: "web", url: "/game/memory" },	//Digitales Mini-Game (Memory/Quiz)	
+    10: { day: "mi", type: "digital", subType: "web", url: "/game/4wins" },	//Digitales Mini-Game (Memory/Quiz)	
     11: { day: "do", type: "letter", content: BRIEF3, },
     12: { day: "fr", type: "coupon", content: "Gutschein für Wellnessabend / Massage für Samstag oder Sonntag" },
     13: { day: "sa", type: "coupon", content: "Gutschein für Filmabend + Pizza und Snacks" },
