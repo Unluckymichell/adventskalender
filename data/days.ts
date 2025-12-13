@@ -99,6 +99,8 @@ Dein Michi!
 
 const BRIEF4 =
     `Was ich mir Wünsche
+
+Das wir uns nicht mehr Streiten.
 -----
 
 TODO!!!!!!!!
