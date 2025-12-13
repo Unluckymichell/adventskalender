@@ -19,7 +19,7 @@ export default function G4winsPage() {
             setGame(g => (json.lastUpdate == 0 || !g || json.lastUpdate > g.lastUpdate ? json : g));
         };
         load();
-        const t = setInterval(load, 2000);
+        const t = setInterval(load, 1000);
         return () => clearInterval(t);
     }, []);
 
