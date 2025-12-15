@@ -100,11 +100,28 @@ Dein Michi!
 const BRIEF4 =
     `Was ich mir Wünsche
 
-Das wir uns nicht mehr Streiten.
 -----
 
-TODO!!!!!!!!
+Hallo, mein Schatz, heute möchte ich dir in diesem Brief mal erzählen was ich mir eigentlich von dir wünsche. 
 
+Ich möchte, dass wir gemeinsam ein ruhiges, aber auch ab und zu mit Action versetztes Leben führen können. Indem wir uns beide die meiste Zeit wohlfühlen. Und der Alltag einfach funktioniert.
+
+Das ist zwar irgendwo Wunschdenken, aber dieses Ziel möchte ich mit dir zusammen erreichen. 
+
+Und Ja, natürlich, würde ich dafür noch einmal die Arbeit wechseln oder auch den Wohnort. im Endeffekt haben wir es erst geschafft, wenn es uns wirklich beiden gut geht.
+
+Wie du dir vielleicht denkst, habe ich diesen Brief auch noch einmal angepasst. Um die aktuelle Lage etwas mit einzubeziehen. Trotzdem, ich freue mich so sehr auf die Zukunft mit dir, und ich bekomme jedes Mal so unglaubliche Angst, wenn diese in Gefahr ist. 
+
+Mein Ziel war von Anfang an das Gleiche. Ich wollte mit dir sein und ich wollte mit dir glücklich sein.
+
+Ich hoffe mir natürlich, dass auch du für dich selbst und auch für mich findest, was dich glücklich macht und auch versuchst, eine Lösung zu finden, die dich auf längere Zeit glücklich macht.
+
+Denn ich möchte meine Zeit nicht damit verbringen, dafür zu sorgen dass es uns überhaupt gut geht. Ich möchte meine Zeit lieber zusammen mit dir dabei verbringen, dass es uns richtig gut geht. und viel lieber bin ich mit dir in unserem Urlaub dann auch wirklich weg und an einem schönen Ort als beim Umziehen oder beim Suchen nach neuer Arbeit.
+
+Viel Text, aber im Endeffekt will ich nur eine Sache sagen:
+Ich wünsche euch dass wir eine stabile Beziehung aufbauen, dass diese nicht sofort existiert ist in Ordnung und vollkommen normal. aber ich würde mir für die Zukunft wünschen, dass wir beide gemeinsam dorthin arbeiten.
+
+Dein Michi
 `;
 
 const BRIEF5 =
