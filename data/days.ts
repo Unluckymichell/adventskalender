@@ -128,7 +128,35 @@ const BRIEF5 =
     `10 Dinge, die ich an dir liebe
 -----
 
-TODO!!!!!!!!
+Hallo mein Schatzen,
+
+ich will dir heute einmal 10 Dinge aufzählen, die ich an dir liebe:
+
+1. Du bist die Süßeste Frau die es gibt. Bei dir kann man immer kuscheln und du brauchst das auch selbst, was ich sehr schätze.
+
+2. Du bis Normalerweise immer liebt zu mir, un die Aufnahmen haben auch ihre Gründe. Du behandelst mich wie einen besten Freund und willst immer mit mir sein.
+
+3. Du siehts mega aus! Deinen Körper liebe ich genauso sehr wie deinen Charakter. Besonders die OO.
+
+4. Wenn wir schon bei Charakter sind, du bist eine im Normalfall starke, liebenswerte Frau die auf sich selbst aufpassen kann, lässt es aber zu von mit verwöhnt zu werden und auch mal abzuschalten. Das mag ich sehr.
+
+5. Mit dir kann man unendlich viel unternehmen. Du weißt immer einen neuen Ort oder eine neue Aktivität die man machen kann.
+
+6. Du wolltest von Anfang an das unser Beziehung funktioniert. Auch wenn du anfangs gezweifelt hast das ich das will hast du versucht mir zu vertrauen. Das hat mich sehr gefreut.
+
+7. BOBO! Du hast wieder einen Hund in mein Leben gebracht, dafür danke ich dir auch.
+
+8. Du hast mir bereits einige male vergeben können, in Situationen bei denen ich mir selbst nicht vergeben konnte. Hauptsächlich mit Familie / alten Freunden
+
+9. Du magst mich wie ich bin. Ich musste mich nicht verstellen oder einen Bereich meines Lebens aufgeben.
+
+10. Du bringst mich voran. Durch dich habe ich viele Fortschritte gemacht und Erkenntnisse erhalten. Seit wir zusammen sind fühle ich mich erwachsener, stärker und habe endlich einen Grenze entwickelt wieviel ich von anderen zulasse. Hier habe ich auch definitiv bedarf weiter zu wachsen aber du hilfst mir dabei, jeden Tag.
+
+Das waren jetzt 10 Punkte, in der Reihenfolge wie Sie mir eingefallen sind, aber wenn ich weiter überlege, finde ich sicher noch viel mehr.
+
+Alles in allem ist mein Leben durch dich viel besser geworden. Und dafür danke ich dir.
+
+Dein Michi :)
 
 `;
 
